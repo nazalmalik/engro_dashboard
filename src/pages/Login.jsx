@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 // Ensure your path to the asset is correct
-import HeroImage from "../assets/HeroImage.PNG";
+import HeroImage from "../assets/heroimage.PNG";
 import EngroLogo from "../assets/favicon.jpg"; 
 
 const Login = () => {

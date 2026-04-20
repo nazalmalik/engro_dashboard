@@ -7,7 +7,7 @@ import React from 'react';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/engro-dashboard"> 
+    <BrowserRouter basename="/engro_dashboard"> 
       <App />
     </BrowserRouter>
   </React.StrictMode>
